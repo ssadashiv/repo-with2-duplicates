@@ -6,6 +6,8 @@ import org.springframework.stereotype.Component;
 @Component
 @Slf4j
 public class WeirdDuplicateComponent {
+    
+    
 
     public void doSomethingWeird() {
         for (int i = 0; i < 100213; i++) {
