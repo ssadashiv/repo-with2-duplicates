@@ -57,4 +57,21 @@ public class WeirdDuplicateComponent {
             log.info("no guessing");
         }
     }
+    
+       public void doSomethingWeird4() {
+        for (int i = 0; i < 100213; i++) {
+            log.info("no guessing");
+            log.error("no guessing");
+            log.info("no guessing");
+        }
+        log.info("Doing duplicated stuff");
+        log.info("Doing duplicated stuff");
+        log.info("Doing duplicated stuff");
+        log.info("Doing duplicated stuff");
+        for (int i = 0; i < 100213; i++) {
+            log.info("no guessing");
+            log.error("no guessing");
+            log.info("no guessing");
+        }
+    }
 }
