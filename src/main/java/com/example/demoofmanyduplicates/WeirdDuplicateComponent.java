@@ -25,6 +25,7 @@ public class WeirdDuplicateComponent {
             log.info("no guessing");
         }
     }
+    
 
     public void doSomethingWeird2() {
         for (int i = 0; i < 100213; i++) {
