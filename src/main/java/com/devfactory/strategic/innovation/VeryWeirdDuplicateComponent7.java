@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Slf4j
-public class VeryWeirdDuplicateComponent5 {
+public class VeryWeirdDuplicateComponent7 {
     
     public void doSomethingWeird() {
 
