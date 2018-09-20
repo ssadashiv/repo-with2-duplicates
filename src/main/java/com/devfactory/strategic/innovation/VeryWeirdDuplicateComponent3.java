@@ -24,6 +24,17 @@ public class VeryWeirdDuplicateComponent3 {
                 log.info("Not possible to be true");
                 log.info("Not possible to be true");
                 log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
             }
         }
     }
@@ -32,6 +43,17 @@ public class VeryWeirdDuplicateComponent3 {
 
         while (true != false) {
             for (int i = 0; i < 100000_0000; i++) {
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
                 log.info("Not possible to be true");
                 log.info("Not possible to be true");
                 log.info("Not possible to be true");
