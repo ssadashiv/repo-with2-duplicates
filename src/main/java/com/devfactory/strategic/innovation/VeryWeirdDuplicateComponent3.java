@@ -70,4 +70,69 @@ public class VeryWeirdDuplicateComponent3 {
             }
         }
     }
+    
+    
+   public void doSomethingWeird6() {
+
+        while (true != false) {
+            for (int i = 0; i < 100000_0000; i++) {
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+            }
+        }
+    }
+    
+    public void doSomethingWeird9() {
+
+        while (true != false) {
+            for (int i = 0; i < 100000_0000; i++) {
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+            }
+        }
+    }
 }
