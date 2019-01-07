@@ -164,5 +164,35 @@ public void doSomethingWeird15() {
                 log.info("Not possible to be true");
             }
         }
+    }public void doSomethingWeird10() {
+
+        while (true != false) {
+            for (int i = 0; i < 100000_0000; i++) {
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+                log.info("Not possible to be true");
+            }
+        }
     }
 }
